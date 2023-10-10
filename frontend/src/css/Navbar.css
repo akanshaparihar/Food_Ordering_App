@@ -1,0 +1,16 @@
+
+@media (max-width: 600px) {
+  .navbar {
+    padding: 10px;
+    font-size: 18px;
+  }
+
+  .navbar-link {
+    margin-left: 5px;
+    font-size: 14px;
+  }
+
+  .navbar-icon {
+    font-size: 24px;
+  }
+}
